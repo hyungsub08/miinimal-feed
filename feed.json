@@ -2,23 +2,6 @@
   "version": 1,
   "posts": [
     {
-      "id": "2026-06-13-133248",
-      "date": "2026-06-13T13:32:48+09:00",
-      "updated": null,
-      "text": "media integration test",
-      "media": [
-        {
-          "path": "media/2026-06-13-133248-1.webp",
-          "w": 1,
-          "h": 1
-        }
-      ],
-      "link": {
-        "url": "https://example.com",
-        "title": "Example"
-      }
-    },
-    {
       "id": "2026-06-10-152452",
       "date": "2026-06-10T15:24:52+09:00",
       "updated": null,
