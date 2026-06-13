@@ -2,6 +2,12 @@
   "version": 1,
   "posts": [
     {
+      "id": "import-test-1",
+      "date": "2026-06-12T00:00:00+09:00",
+      "updated": null,
+      "text": "exported then imported"
+    },
+    {
       "id": "2026-06-10-152452",
       "date": "2026-06-10T15:24:52+09:00",
       "updated": null,
